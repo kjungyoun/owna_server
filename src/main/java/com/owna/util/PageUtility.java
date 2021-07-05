@@ -1,4 +1,4 @@
-package com.ssafy.happyhouse.util;
+package com.owna.util;
 
 
 /**
